@@ -19,6 +19,7 @@ public class JavaDeveloperApplication {
 
 		//mstBo.show();
 		
+		System.out.println(" welcome to spring boot");
 		
 	}
 
